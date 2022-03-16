@@ -1,5 +1,5 @@
 <cfoutput>
-#now()# 6
+#now()# 69
 </cfoutput>
 
 <cfscript>
